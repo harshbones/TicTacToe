@@ -1,8 +1,6 @@
 README de l'exercice THP du mardi de la semaine 3
 
-Collaborateurs :  Valérian Michelot
-                  David Rangeard
-                  Paul Guerin
+Collaborateurs :  Valérian Michelot, David Rangeard, Paul Guérin
 
 Le dossier Gemfile est vide, le programme ne demandant à priori aucune Gem
 
